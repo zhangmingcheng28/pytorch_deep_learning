@@ -17,7 +17,6 @@ import torch.nn.functional as F
 import torchvision
 import torch
 
-
 def create_training_data():
     training_data = []
 
